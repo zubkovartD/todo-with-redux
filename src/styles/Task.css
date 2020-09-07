@@ -1,0 +1,10 @@
+.completed {
+    text-decoration: line-through;
+
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
